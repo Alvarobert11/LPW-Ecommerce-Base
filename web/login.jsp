@@ -1,4 +1,4 @@
-<%-- 
+<%--
     Document   : login
     Created on : 04/09/2019, 17:26:29
     Author     : gutol
@@ -13,7 +13,7 @@
         <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
     </head>
     <body>
-        
+
         <div class="container">
             <h1>Entrar no Sistema</h1>
 
@@ -26,9 +26,9 @@
                 <label for="exampleInputPassword1">Senha</label>
                 <input name="senha" type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
               </div>
-              <button type="submit" class="btn btn-default">Submit</button>
+              <button type="submit" class="btn btn-default">OK</button>
             </form>
-        
+
         </div>
         <script src="js/bootstrap.min.js" type="text/javascript"></script>
     </body>
